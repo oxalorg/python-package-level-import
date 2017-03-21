@@ -1,3 +1,3 @@
-from . import troll
+from lmao import troll
 
 print(troll.face)
